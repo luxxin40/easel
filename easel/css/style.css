@@ -1,0 +1,9 @@
+body{
+	background: #AAA;
+}
+
+#easel{
+	background: #AAA;
+	display: block;
+	margin: 0 auto;
+}
